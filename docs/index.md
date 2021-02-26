@@ -1,11 +1,15 @@
 ## Hello, World!
 
 My name is Dimitri Racordon.
-I am a post-doc research at University of Geneva, Swizterland, in [Didier Buchs](https://scholar.google.com/citations?user=3dWTmooAAAAJ)'s group.
-I work on static analysis of programming languages, with a particular focus on type and memory safety.
-I hope to help software developers do complex stuff with simpler and safer programs.
+I love coding, running, cheese, coffee, whisky and playing Stracraft 2, in no particular order.
 
+I am a post-doc research at University of Geneva, Swizterland, in [Didier Buchs](https://scholar.google.com/citations?user=3dWTmooAAAAJ)'s group.
+My work focuses on type-based approaches for memory safety.
+My main research interests include type systems (obviously), language design, compiler construction and virtual machine implementations.
 I dedicated my [Ph.D. dissertation](https://archive-ouverte.unige.ch/unige:127105) to the study of memory assignment semantics in programming languages.
+
+Besides research, I am also actively involved in software development and engineering.
+Most (if not all) of my work is open source and available on my [GitHub profile](https://github.com/kyouko-taiga).
 
 ### List of publications
 
@@ -32,3 +36,17 @@ I dedicated my [Ph.D. dissertation](https://archive-ouverte.unige.ch/unige:12710
 * **Racordon D.**, Buchs D. *Extracting Formal Specifications to Strengthen Type Behavior Testing.* Student Forum of 13th European Dependable Computing Conference (EDCC), Geneva, Switzerland, September 2017
 * **Racordon D.**, Buchs D. *Verifying Multi-Core Schedulability with Data Decision Diagrams.* Proceedings of the the 8th International Workshop on Software Engineering for Resilient Systems (SERENE), Gothenburg, Sweden, pages 45 — 61, September 2016
 * Lawrence D., **Racordon D.**, Colange M., Hostettler S., Linard A., López Bóbeda E., Marechal A., Risoldi M., Sedlmajer N., Buchs D. *Introducing Formal Verification with LEGO.* International Workshop Fun With Formal Methods, Vienna, Austria, July 2014
+
+### About myself
+
+I'm from Geneva, Switzerland.
+I'm a husband and father of one.
+I speak French, English and 日本語.
+I also speak Swift, C/C++, Python and Javascript, almost as fluently.
+
+I created my GitHub account during the peak of my interest into Japanese animation, thus my handle.
+I have less time for this hobby now, but am still partial to the work of Shaft and Kyoto Animation.
+
+I'm also known as *Alvae* by my friends from video games.
+I'm a Starcraft 2 player.
+I play Zerg, the broken race.
