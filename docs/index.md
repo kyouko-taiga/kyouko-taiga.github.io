@@ -34,7 +34,7 @@ Most (if not all) of my work is open source and available on my [GitHub profile]
 * **Racordon D.**, Buchs D. *Implementing a language with explicit assignment semantics.* Proceedings of the 11th International Workshop on Virtual Machines and Intermediate Languages (VMIL), Athens, Greece, pages 12 — 21, October 2019
 * Klikovits S., Linard A., **Racordon D.**, Buchs D. *Petri Sport: A Sport for Petri Netters.* Proceedings of the 12th International Workshop on Petri Nets and Software Engineering (PNSE), Bratislava, Slovakia, pages 35 — 56, July 2018
 * **Racordon D.**, Buchs D. *Extracting Formal Specifications to Strengthen Type Behavior Testing.* Student Forum of 13th European Dependable Computing Conference (EDCC), Geneva, Switzerland, September 2017
-* **Racordon D.**, Buchs D. *Verifying Multi-Core Schedulability with Data Decision Diagrams.* Proceedings of the the 8th International Workshop on Software Engineering for Resilient Systems (SERENE), Gothenburg, Sweden, pages 45 — 61, September 2016
+* **Racordon D.**, Buchs D. *Verifying Multi-Core Schedulability with Data Decision Diagrams.* Proceedings of the 8th International Workshop on Software Engineering for Resilient Systems (SERENE), Gothenburg, Sweden, pages 45 — 61, September 2016
 * Lawrence D., **Racordon D.**, Colange M., Hostettler S., Linard A., López Bóbeda E., Marechal A., Risoldi M., Sedlmajer N., Buchs D. *Introducing Formal Verification with LEGO.* International Workshop Fun With Formal Methods, Vienna, Austria, July 2014
 
 ### About myself
@@ -44,7 +44,7 @@ I'm a husband and father of one.
 I speak French, English and 日本語.
 I also speak Swift, C/C++, Python and Javascript, almost as fluently.
 
-I created my GitHub account during the peak of my interest into Japanese animation, thus my handle.
+I created my GitHub account during the peak of my interest in Japanese animation, thus my handle.
 I have less time for this hobby now, but am still partial to the work of Shaft and Kyoto Animation.
 
 I'm also known as *Alvae* by my friends from video games.
