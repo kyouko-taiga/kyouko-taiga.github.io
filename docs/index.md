@@ -1,47 +1,59 @@
 ## Hello, World!
 
-My name is Dimitri Racordon.
-I love coding, running, cheese, coffee, whisky and playing Stracraft 2, in no particular order.
+My name is Dimi Racordon.
+I am a postdoctoral research at Northeastern University, USA, working with Jan Vitek in the [Programming Research Laboratory (PRL)](https://prl.ccs.neu.edu/) research group.
 
-I am a post-doc research at University of Geneva, Swizterland, in [Didier Buchs](https://scholar.google.com/citations?user=3dWTmooAAAAJ)'s group.
-My work focuses on type-based approaches for memory safety.
-My main research interests include type systems (obviously), language design, compiler construction and virtual machine implementations.
-I dedicated my [Ph.D. dissertation](https://archive-ouverte.unige.ch/unige:127105) to the study of memory assignment semantics in programming languages.
+My research advances methods and techniques that empower developers to write expressive, efficient, and reliable software. I gravitate toward **model checking**, **formal verification**, and **programming language design**, with a particular focus on advanced **type systems**.
+I compiled more information about my work and vision in a [research statement](assets/pdfs/research-statement.pdf).
 
+I'm currently working in collaboration with Adobe's STLab on the design of a new programming language, called [Val](https://val-lang.dev), to explore the he concepts of mutable value semantics and generic programming for high-level systems programming.
 Besides research, I am also actively involved in software development and engineering.
 Most (if not all) of my work is open source and available on my [GitHub profile](https://github.com/kyouko-taiga).
 
 ### List of publications
 
-#### Journals:
+Most of my publications are in international conferences on programming languages or model checking and their associated workshop. You'll find a selection of my recent papers below. More complete lists can be found on in my [CV](assets/pdfs/cv.pdf) or my [*DBLP profile*](https://dblp.org/pid/164/5675.html).
 
-* Savic N., **Racordon D**., Buchs D., Gasic B., Vernez D. *TREXMO: a translation tool to support the use of regulatory occupational exposure models.* Annals of Occupational Hygiene, Volume 60(8), pages 991 — 1008
-* Colange M., **Racordon D.**, Buchs D. *Computing Bounds for Counter Automata.* Electronic Communication of the European Association of Software Science and Technology, Volume 72
+* **Implementation Strategies for Mutable Value Semantics** ([doi](https://doi.org/10.5381/jot.2022.21.2.a2), [pdf](assets/papers/jot2022-mvs.pdf))
 
-#### Conferences:
+  Dimitri Racordon, Denys Shabalin, Daniel Zheng, Dave Abrahams, Brennan Saeta.
+  _In Journal of Object Technology (**JoT**) 21(2):1-11, 2022_
 
-* **Racordon D.**, Buchs D. *Featherweight Swift: A Core Calculus for Swift's Type System.* Proceedings of the 13th International Conference on Software Language Engineering (SLE), Virtual, pages 140 — 154, November 2020
-* **Racordon D.**, Coet A., Stachtiari E., Buchs D. *Solving Schedulability as a Search Space Problem with Decision Diagrams.* International Symposium on Search Based Software Engineering (SSBSE), Virtual, pages 73 — 87, October 2020
-* **Racordon D.**, Buchs D. *A practical Type System for Safe Aliasing.* Proceedings of the 12th International Conference on Software Language Engineering (SLE), Boston, USA, pages 113 — 146, October 2018
-* Buchs D., Klikovits S., Linard A., Mencattini R., **Racordon D.** *A model Checker Collection for the Model Checking Contest Using Docker and Machine Learning.* Proceedings of the 39th International Conference on Application and Theory of Petri nets and Concurrency (Petri Nets), Bratislava, Slovakia, pages 385 — 395, July 2018
-* **Racordon D.**, Buchs D. *Démystifier les concepts informatiques par l’expérimentation.* Proceedings of the 7th Symposium on Computer Teaching (Didapro), Lausanne, Switzerland, pages 219 — 233, February 2018
-* Savic N., **Racordon D.**, Buchs D., Gasic B., Vernez D. *TREXMO: un nouvel outil d'aide à l'utilisation de modèles pour l'évaluation de l'exposition professionnelle.* Conférence INRS 2015 sur la recherche en santé au travail, Nancy, France, April 2015
+* **Toward a Lingua Franca for Memory Safety** ([doi](https://doi.org/10.5381/jot.2022.21.2.a3), [pdf](assets/papers/jot2022-fuel.pdf))
 
-#### Workshops:
+  Dimitri Racordon, Aurélien Coet, Didier Buchs.
+  _In Journal of Object Technology (**JoT**) 21(2):1-11, 2022_
 
-* **Racordon D.**, Stachtiari E., Morard D., Buchs D. *Functional Block Programming and Debugging.* 6th Workshop on Line Programming (LIVE), Virtual, November 2020
-* **Racordon D.**, Buchs D. *LogicKit: Bringing Logic Programming to Swift.* Conference Companion of the 4th International Conference on Art, Science, and Engineering of Programming, March 2020
-* **Racordon D.**, Buchs D. *Implementing a language with explicit assignment semantics.* Proceedings of the 11th International Workshop on Virtual Machines and Intermediate Languages (VMIL), Athens, Greece, pages 12 — 21, October 2019
-* Klikovits S., Linard A., **Racordon D.**, Buchs D. *Petri Sport: A Sport for Petri Netters.* Proceedings of the 12th International Workshop on Petri Nets and Software Engineering (PNSE), Bratislava, Slovakia, pages 35 — 56, July 2018
-* **Racordon D.**, Buchs D. *Extracting Formal Specifications to Strengthen Type Behavior Testing.* Student Forum of 13th European Dependable Computing Conference (EDCC), Geneva, Switzerland, September 2017
-* **Racordon D.**, Buchs D. *Verifying Multi-Core Schedulability with Data Decision Diagrams.* Proceedings of the 8th International Workshop on Software Engineering for Resilient Systems (SERENE), Gothenburg, Sweden, pages 45 — 61, September 2016
-* Lawrence D., **Racordon D.**, Colange M., Hostettler S., Linard A., López Bóbeda E., Marechal A., Risoldi M., Sedlmajer N., Buchs D. *Introducing Formal Verification with LEGO.* International Workshop Fun With Formal Methods, Vienna, Austria, July 2014
+* **Featherweight Swift: A Core Calculus for Swift's Type System** ([doi](https://doi.org/10.1145/3426425.3426939), [pdf](assets/papers/sle2020-fs.pdf))
+
+  Dimitri Racordon, Didier Buchs.
+  _In ACM SIGPLAN International Conference on Software Language Engineering (**SLE 2020**)_
+
+* **Solving Schedulability as a Search Space Problem with Decision Diagrams** ([doi](https://doi.org/10.1007/978-3-030-59762-7_6), [pdf](assets/papers/ssbse2020-mfdd.pdf))
+
+  Dimitri Racordon, Aurélien Coet, Emmanouela Stachtiari, Didier Buchs.
+  _In International Symposium on Search-Based Software Engineering (**SSBSE 2020**)_
+
+* **LogicKit: Bringing Logic Programming to Swift** ([doi](https://doi.org/10.1145/3397537.3399575), [pdf](assets/papers/programming2020-logickit.pdf))
+
+  Dimitri Racordon, Didier Buchs.
+  _In Companion Proceedings of the International Conference on the Art, Science, and Engineering of Programming (**Programming 2020**)_
+
+* **Implementing a language with explicit assignment semantics** ([doi](https://doi.org/10.1145/3358504.3361227), [pdf](assets/papers/vmil2019-anzen.pdf))
+
+  Dimitri Racordon, Didier Buchs.
+  _In International Workshop on Virtual Machines and Intermediate Languages (**VMIL 2019**), co-located with SPLASH_
+
+* **A practical Type System for Safe Aliasing** ([doi](https://doi.org/10.1145/3276604.3276612), [pdf](assets/papers/sle2018-safescript.pdf))
+
+  Dimitri Racordon, Didier Buchs.
+  _In ACM SIGPLAN International Conference on Software Language Engineering (**SLE 2018**)_
 
 ### About myself
 
 I'm from Geneva, Switzerland.
-I'm a husband and father of one.
-I speak French, English and 日本語.
+I'm married and parent of one.
+I speak French, English, and 日本語.
 I also speak Swift, C/C++, Python and Javascript, almost as fluently.
 
 I created my GitHub account during the peak of my interest in Japanese animation, thus my handle.
