@@ -6,7 +6,7 @@ I am a postdoctoral research at Northeastern University, USA, working with Jan V
 My research advances methods and techniques that empower developers to write expressive, efficient, and reliable software. I gravitate toward **model checking**, **formal verification**, and **programming language design**, with a particular focus on advanced **type systems**.
 I compiled more information about my work and vision in a [research statement](assets/pdfs/research-statement.pdf).
 
-I'm currently working in collaboration with Adobe's STLab on the design of a new programming language, called [Val](https://val-lang.dev), to explore the he concepts of mutable value semantics and generic programming for high-level systems programming.
+I'm currently working in collaboration with Adobe's STLab on the design of a new programming language, called [Val](https://val-lang.dev), to explore the concepts of mutable value semantics and generic programming for high-level systems programming.
 Besides research, I am also actively involved in software development and engineering.
 Most (if not all) of my work is open source and available on my [GitHub profile](https://github.com/kyouko-taiga).
 
