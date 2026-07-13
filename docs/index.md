@@ -14,10 +14,10 @@ Most (if not all) of my work is open source and available on my [GitHub profile]
 
 Most of my publications are in international conferences on programming languages or model checking and their associated workshop. You'll find a selection of my recent papers below. More complete lists can be found on in my [CV](assets/pdfs/cv.pdf) or my [DBLP profile](https://dblp.org/pid/164/5675.html).
 
-* **On the State of Coherence in the Land of Typeclasses** ([doi](https://doi.org/10.22152/programming-journal.org/2025/10/15), [pdf]([assets/papers/jot2022-mvs.pdf](https://arxiv.org/pdf/2502.20546v1)))
+* **On the State of Coherence in the Land of Typeclasses** ([doi](https://doi.org/10.22152/programming-journal.org/2025/10/15), [pdf](https://arxiv.org/pdf/2502.20546v1))
 
-  Dimi Racordon, Denys Shabalin, Daniel Zheng, Dave Abrahams, Brennan Saeta.
-  _In Journal of Object Technology (**JoT**) 21(2):1-11, 2022_
+  Dimi Racordon, Eugene Flesselle, Cao Nguyen Pham.
+  _The Art, Science, and Engineering of Programming, Vol. 10, Issue 1, Article 15, 2025_
 
 * **Implementation Strategies for Mutable Value Semantics** ([doi](https://doi.org/10.5381/jot.2022.21.2.a2), [pdf](assets/papers/jot2022-mvs.pdf))
 
